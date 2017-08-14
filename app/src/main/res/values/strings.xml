@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CatchTheBus</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="buses">
+        <item>Bus No 5</item>
+        <item>Bus No 8</item>
+        <item>Bus No 15</item>
+        <item>Bus No 16</item>
+        <item>Bus No 17</item>
+
+    </string-array>
+</resources>
